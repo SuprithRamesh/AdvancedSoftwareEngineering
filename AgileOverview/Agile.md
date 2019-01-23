@@ -35,7 +35,6 @@ Tools and Techniques such as
 ```
 
 ## Agile Methodologies
-```
 Based on requirement of SDLC, agile methodolgies vary, for example
 1.  [Extreme Programming (XP)](./ExtremeProgramming.md)
 2.  Lean software development
@@ -43,7 +42,6 @@ Based on requirement of SDLC, agile methodolgies vary, for example
 4.  Scrum
 5.  Scrumban
 6.  Others like Rapid Application Development (RAD), Feature driven development (FDD)
-```
 
 ## Agile Practices
 ```
