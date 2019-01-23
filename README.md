@@ -19,6 +19,9 @@ Trinity College Dublin
 
 ## Project Description
 
+### Project Name
+Dynamic Sustainable Wayfinding
+
 ### Goal
 The goal of this project is to provide real-time wayfinding for travellers that improves the reliability of the mobility experience across all transportation modes. It will build intelligence at the edges of the network (i.e., decentralised), while providing real-time decision-making and decision support to very large numbers of travellers, across a wide range of transportation modes (including pedestrian, bike, car, bus, tram, train and taxi) tailored to their individual priorities (pollution avoidance, emissions reduction, speed, reliability, comfort etc.). A single trip may involve multiple modes of transport, which may be modified en-route, given changes in the environment, e.g., congestion, noise pollution, crowded and so on.
 
