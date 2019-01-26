@@ -13,7 +13,7 @@
   1. git clone
   2. git pull ( For getting the latest updates from Origin - Origin is online master git)
   3. git push ( For pushing local contents to Origin )
-  4. git commit ( For commiting changes to local git )
+  4. git commit -m "Commit Message" ( For commiting changes to local git )
   5. git add .  ( For adding files to local git ) or git add {filename}
   6. git status
 
@@ -21,5 +21,5 @@
   - git pull ( keep a backup of your local work and get latest code from Origin )
   - Make code changes in Atom to required files
   - git add .
-  - git commit ( Add proper commments and Click Ctrl+X )
+  - git commit -m "Proper Comments here"
   - git push ( You need to put your credentials here)
