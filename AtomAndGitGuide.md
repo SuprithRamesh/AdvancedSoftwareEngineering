@@ -14,7 +14,8 @@
   2. git pull ( For getting the latest updates from Origin - Origin is online master git)
   3. git push ( For pushing local contents to Origin )
   4. git commit ( For commiting changes to local git )
-  5. git add .  ( For adding files to local git ) or git add {filename}  
+  5. git add .  ( For adding files to local git ) or git add {filename}
+  6. git status
 
 **Order of git commands for normal code push**
   - git pull ( keep a backup of your local work and get latest code from Origin )
