@@ -3,7 +3,8 @@
 Trinity College Dublin
   MSc Computer Science
     Advanced Software Engineering
-    Team 1 Repo  </pre>
+    Team 1 Repo
+</pre>
 
 ## The Team
 
@@ -11,11 +12,10 @@ Trinity College Dublin
 | :--------:    |:---------------:| :------:| :--------------: |
 | 18300592      | BHATIA          | SNEHAL  |  BHATIAS@TCD.IE  |
 | 18301411      | MISHRA          | AYUSH   |  MISHRAAY@TCD.IE |
-| 18314752      | MANOHAR LINCOLN |    JOHN PRASHANTH GNANIAH  | MANOHARJ@TCD.IE |
+| 18314752      | MANOHAR LINCOLN | JOHN PRASHANTH GNANIAH     | MANOHARJ@TCD.IE |
 | 18315700 	    | RAMESH 	        | SUPRITH | RAMESHSU@TCD.IE  |
 | 18316477 	    | MANDA 	        | SHILPA  | MANDAS@TCD.IE    |
 | 17316106 	    | MANI NAIR 	    | MANJIMA | MANINAIM@TCD.IE  |
-
 
 ## Project Description
 
