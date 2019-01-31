@@ -12,4 +12,4 @@
 |             | 5 PM - 6 PM     | Leinster     |  Suprith         |
 | Friday      | 2 PM - 3 PM     | Leinster     |  Manju           |
 | Saturday    | 11 AM - 1 PM    | Leinster     |  Shilpa          |
-|             | 1 PM - 2 PM     | Leinster     |  Ayush           |
+|             | 1 PM - 3 PM     | Leinster     |  Ayush           |
