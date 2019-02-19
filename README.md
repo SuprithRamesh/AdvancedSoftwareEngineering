@@ -44,3 +44,8 @@ This means that a decentralised architecture is likely to be most appropriate
 
 #### Be secure
 The system should be secure from attack.
+
+# Code Repos:
+Android:  https://github.com/tcdayush/DirectMe
+Server: https://github.com/manohajx/TestServerLogic (Springboot Application)
+Database: 
