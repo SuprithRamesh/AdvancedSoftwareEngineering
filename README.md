@@ -1,10 +1,16 @@
 # Advanced Software Engineering
 <pre>
 Trinity College Dublin
-  MSc Computer Science
-    Advanced Software Engineering
-    Team 1 Repo
+MSc Computer Science
+Advanced Software Engineering
+Team 1 Repo
 </pre>
+
+# Links:
+Test Manager -> https://tcd-ase.testquality.com/project/5897 
+Android:  https://github.com/tcdayush/DirectMe  
+Server: https://github.com/manohajx/TestServerLogic (Springboot Application)  
+Database: 
 
 ## The Team
 
@@ -45,7 +51,4 @@ This means that a decentralised architecture is likely to be most appropriate
 #### Be secure
 The system should be secure from attack.
 
-# Code Repos:
-Android:  https://github.com/tcdayush/DirectMe  
-Server: https://github.com/manohajx/TestServerLogic (Springboot Application)  
-Database:   
+  
