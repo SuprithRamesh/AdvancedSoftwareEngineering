@@ -9,7 +9,7 @@ Team 1 Repo
 # Links:
 Test Manager -> https://tcd-ase.testquality.com/project/5897   
 Android:  https://github.com/tcdayush/DirectMe    
-Server: https://github.com/manohajx/TestServerLogic (Springboot Application)    
+Server:  
 Database: 
 
 ## The Team
