@@ -7,3 +7,6 @@ mvn sonar:sonar -Dsonar.projectKey=EmergencyService -Dsonar.host.url=http://loca
 mvn sonar:sonar -Dsonar.projectKey=ServiceRegistry -Dsonar.host.url=http://localhost:9000 -Dsonar.login=ba90d22847f9a46ec9140e4052429653c96ef24c
 
 mvn sonar:sonar -Dsonar.projectKey=ApiHandler -Dsonar.host.url=http://localhost:9000 -Dsonar.login=e6207797682bd4afe56e89123d841d2456725779
+
+gradlew sonarqube -Dsonar.projectKey=com.example.directme -Dsonar.host.url=http://localhost:9000 -Dsonar.login=ceda28690b2
+e7f8478ac21a3028740a0e352ff63
