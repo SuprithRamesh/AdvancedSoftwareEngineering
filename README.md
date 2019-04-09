@@ -1,27 +1,25 @@
-# Advanced Software Engineering
-<pre>
-Trinity College Dublin
-MSc Computer Science
-Advanced Software Engineering
-Team 1 Repo
-</pre>
+# Advanced Software Engineering  
+
+```
+This project was undertaken as a module at  
+Trinity College Dublin : MSc Computer Science  
+```
 
 # Links:
-Test Manager -> https://tcd-ase.testquality.com/project/5897   
-Android:  https://github.com/tcdayush/DirectMe    
-Server:  
-Database: 
+Test Manager: [Test Quality](https://tcd-ase.testquality.com/project/5897)  
+Android: [Client - Android Application](https://github.com/tcdayush/DirectMe)  
+Server:  [Server - Spring Boot Microservices](https://github.com/manohajx/ASE_Server_Side_Logic)
 
 ## The Team
 
-| College ID  | Surname  | First Name | Mail ID |
-| :--------:    |:---------------:| :------:| :--------------: |
-| 18300592      | BHATIA          | SNEHAL  |  BHATIAS@TCD.IE  |
-| 18301411      | MISHRA          | AYUSH   |  MISHRAAY@TCD.IE |
-| 18314752      | MANOHAR LINCOLN | JOHN PRASHANTH GNANIAH     | MANOHARJ@TCD.IE |
-| 18315700 	    | RAMESH 	        | SUPRITH | RAMESHSU@TCD.IE  |
-| 18316477 	    | MANDA 	        | SHILPA  | MANDAS@TCD.IE    |
-| 17316106 	    | MANI NAIR 	    | MANJIMA | MANINAIM@TCD.IE  |
+| College ID  | Surname  | First Name | Mail ID | Github Handle
+| :--------:    |:---------------:| :------:| :--------------: | :--------------: |
+| 18300592      | BHATIA          | SNEHAL  |  BHATIAS@TCD.IE  | [snehal08](https://github.com/snehal08)
+| 18301411      | MISHRA          | AYUSH   |  MISHRAAY@TCD.IE | [tcdayush](https://github.com/tcdayush)
+| 18314752      | MANOHAR LINCOLN | JOHN PRASHANTH GNANIAH     | MANOHARJ@TCD.IE | [manohajx](https://github.com/manohajx)
+| 18315700 	    | RAMESH 	        | SUPRITH | RAMESHSU@TCD.IE  | [SuprithRamesh](https://github.com/SuprithRamesh)
+| 18316477 	    | MANDA 	        | SHILPA  | MANDAS@TCD.IE    | [mandashilpa26](https://github.com/mandashilpa26)
+| 17316106 	    | MANI NAIR 	    | MANJIMA | MANINAIM@TCD.IE  | [maninaim](https://github.com/maninaim)
 
 ## Project Description
 
@@ -50,5 +48,3 @@ This means that a decentralised architecture is likely to be most appropriate
 
 #### Be secure
 The system should be secure from attack.
-
-  
